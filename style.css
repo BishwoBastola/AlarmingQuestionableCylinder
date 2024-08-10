@@ -1,0 +1,10 @@
+/*Try changing BG color for different color effect*/
+
+body {
+  background: #423C40;
+  overflow: hidden;
+}
+
+canvas {
+  margin: 0;
+}
